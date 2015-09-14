@@ -8,5 +8,7 @@ Features:
 
 - User can calculate a tip, choosing from 3 tip presets
 - I designed an app icon as well
+- 
+![Video Walkthrough](tips-app-demo.gif)
 
 
